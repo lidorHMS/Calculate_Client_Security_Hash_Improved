@@ -1,0 +1,1 @@
+# Calculate_Client_Security_Hash_Improved[Calculate Client Security Hash - Process Design Document.pdf.pdf](https://github.com/lidorHMS/Calculate_Client_Security_Hash_Improved/files/9178581/Calculate.Client.Security.Hash.-.Process.Design.Document.pdf.pdf)
